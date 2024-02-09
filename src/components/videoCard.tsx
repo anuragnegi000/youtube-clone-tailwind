@@ -7,7 +7,7 @@ export function VideoCard(){
         </div>
         <div className="col-span-11 pl-5">
             Anurag negi(4 years of life)
-            Btech computer science
+            Btech CSE
         </div>
         </div>
     </div> 
